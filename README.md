@@ -1,5 +1,5 @@
 # MSDS498-Final-Project
-Individual MSDS 498 Capstone Project
+Dan Kuratko's Individual MSDS 498 Capstone Project
 
 ## Project 3 Summary
 
