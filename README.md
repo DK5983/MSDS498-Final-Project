@@ -26,4 +26,6 @@ Step by step instructions found here: https://cloud.google.com/dataproc/docs/tut
 
 Note: I chose to use a Python (PySpark) dev environment, but GCP also allows you to use Java (Apache Maven) or Scala (SBT) too.
 
+Note: You'll need the word-count.py file for this example.  It's located in the **GCP Tasks** folder in this repo.
 
+Note: Ensure you delete all the resources you created for the project when complete.
