@@ -14,9 +14,16 @@ Once these tasks are complete, the project then requires the same Hadoop and Spa
 
 Step by step instructions found here: https://cloud.google.com/composer/docs/tutorials/hadoop-wordcount-job
 
-Note: You'll have to establish an account and input billing information, though Google will provide you with enough start-up credits to work through both the Hadoop and Spark examples for the project.  Just ensure you delete your clusters when you're done.
+Note: You'll have to establish an account and input billing information, though Google will provide you with enough start-up credits to work through both the Hadoop and Spark examples for the project.  
 
+Note: You'll need the hadoop_tutorial.py file, provided by Goggle, and located in the **GCP Tasks** folder of this repo to execute the Hadoop MapReduce example.  
 
+Note: Ensure you delete all the resources you created for the project when complete.
 
+## Spark wordcount jop on GCP
+
+Step by step instructions found here: https://cloud.google.com/dataproc/docs/tutorials/gcs-connector-spark-tutorial
+
+Note: I chose to use a Python (PySpark) dev environment, but GCP also allows you to use Java (Apache Maven) or Scala (SBT) too.
 
 
