@@ -5,6 +5,8 @@ Individual MSDS 498 Capstone Project
 
 Project 3 calls for a walkthrough of chapter 16  in *Python for Programmers*, written by Paul and Harvey Deitel.  The project calls for a Hadoop MapReduce that executes a word-length summation for Shakespeare's play *Romeo and Juliet* enscribed as a .txt file.  The same task is then executed using Apache Spark.  The chapter walkthrough performs these tasks using MS Azure's HDInsight, and rather than recreate code, all files on this repository are borrowed from the text's online source code here: **https://learning.oreilly.com/library/view/python-for-programmers/9780135231364/ch16.xhtml**. For the sake of brevity, I won't elaborate on how to complete these tasks with MS Azure, but instead point to the text for step-by-step instructions.
 
+I also developed and uploaded a presentation that walks through all the examples within Ch. 16 and some of the "best practices" and "lessons learned" from my experience.
+
 
 ## Replicating Word Count Tasks with GCP
 
